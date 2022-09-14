@@ -1,6 +1,9 @@
 # IBM-Project-33972-1660230075
 Personal Assistance for Seniors Who Are Self-Reliant
 
+You can follow this link to tinker the mentioned project - https://www.tinkercad.com/things/6JYWYptqIsY?sharecode=IPwBShWYZTTDAjiW3u-qDW5bzebwqtXcEUz7Lufn6xM 
+
+
 // Code for the above Temperature and PIR sensor related project 
 void setup()
 {
