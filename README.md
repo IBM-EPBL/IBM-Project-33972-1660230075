@@ -1,6 +1,7 @@
 # IBM-Project-33972-1660230075
 Personal Assistance for Seniors Who Are Self-Reliant
-// Code for the above project 
+
+// Code for the above Temperature and PIR sensor related project 
 void setup()
 {
   Serial.begin(9600);
