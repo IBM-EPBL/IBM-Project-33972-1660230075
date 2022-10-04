@@ -13,10 +13,11 @@ if(temperature>60):
     winsound.Beep(4460, 1000)
 else:
     print("NORMAL TEMPERATURE")
-    
+'''   
 ctr=random.randint(3,8)
 Dew_point=temperature-ctr
 print("Dew_point = ",Dew_point)
+'''
 print("Humidity = ",humidity)
 
 
