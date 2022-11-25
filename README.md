@@ -10,7 +10,7 @@
 ## **TEAM MEMBERS**
 
 ```
-Shaik Kamiloon-Team Lead
+Shaik Kamiloon-Team Leader
 Subhashri-Team Member
 Sofia B-Team Member
 Varshinie Saagarikaa MS-Team Member
