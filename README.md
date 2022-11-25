@@ -9,12 +9,12 @@
 
 ## **TEAM MEMBERS**
 
-```
-Shaik Kamiloon-Team Leader
-Subhashri-Team Member
-Sofia B-Team Member
-Varshinie Saagarikaa MS-Team Member
-```
+
+- Shaik Kamiloon-Team Leader
+- Subhashri-Team Member
+- Sofia B-Team Member
+- Varshinie Saagarikaa MS-Team Member
+
 
 
 # **PROJECT DESCRIPTION:** 
@@ -23,9 +23,9 @@ Varshinie Saagarikaa MS-Team Member
 
 
 # **SKILLS REQUIRED:**
-```    
-IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
-```
+    
+>IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+
 
 
 
