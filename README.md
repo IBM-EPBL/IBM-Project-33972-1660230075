@@ -13,7 +13,7 @@
 - Shaik Kamiloon-Team Leader
 - Subhashri-Team Member
 - Sofia B-Team Member
-- Varshinie Saagarikaa MS-Team Member
+- Varshinie Sagarikaa MS-Team Member
 
 
 
