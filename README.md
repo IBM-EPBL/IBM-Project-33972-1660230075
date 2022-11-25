@@ -18,9 +18,9 @@ Varshinie Saagarikaa MS-Team Member
 
 
 # **PROJECT DESCRIPTION:** 
-```        
-The Project concentrates on creating a medicine reminder application. MedicineReminder Project is a native android application meant to aid forgetful and busy senior citizens by reminding them to take their daily medications. It is designed for users who need a little help keeping track of their medication schedule and who are dedicated to keeping the schedule but forget things easily. The application allows the user to store pill objects and multiple alarms for those pills at the correct times.  
-```
+       
+>The Project concentrates on creating a medicine reminder application. MedicineReminder Project is a native android application meant to aid forgetful and busy senior citizens by reminding them to take their daily medications. It is designed for users who need a little help keeping track of their medication schedule and who are dedicated to keeping the schedule but forget things easily. The application allows the user to store pill objects and multiple alarms for those pills at the correct times.  
+
 
 # **SKILLS REQUIRED:**
 ```    
