@@ -1,6 +1,7 @@
 # IBM-Project-33972-1660230075
 Personal Assistance for Seniors Who Are Self-Reliant
 
+
 Category: Internet Of Things
 
 Skills Required:
@@ -15,4 +16,10 @@ Abstract:
   These details will be stored in the IBM Cloudant DB. When the medicine time arrives, the web application will send the medicine name to the IoT Device through the IBM 
   IoT platform. The device will receive the medicine name and notify the user with voice commands. It also has added features for better usage and added benefits. 
   It can also provide information on the medicines that the user is taking.
+  
+Team Members:
+  Shaik Kamiloon
+  Subhashri KS
+  Sofia B
+  Varshinie Sagarikaa MS
 
